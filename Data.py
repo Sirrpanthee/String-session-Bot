@@ -54,11 +54,11 @@ Managed By @zenfrans
 
 A telegram bot to retrieve pyrograms and telethon string sessions by @nbzoning
 
-Group Support : [Gabung](https://t.me/OkaeriUserbot)
+Group Support : [Gabung](https://t.me/SIRRPANTHER)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @zenfrans
+Developer : @SIRRPANTHER
     """
